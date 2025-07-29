@@ -1,0 +1,78 @@
+[
+  {
+    "slot_id": "C1",
+    "slot_type": "car",
+    "is_occupied": true,
+    "vehicle": {
+      "license_plate": "MH01CR7777",
+      "vehicle_type": "car",
+      "entry_time": "2025-07-29 14:59:47"
+    }
+  },
+  {
+    "slot_id": "B1",
+    "slot_type": "bike",
+    "is_occupied": false,
+    "vehicle": null
+  },
+  {
+    "slot_id": "C2",
+    "slot_type": "car",
+    "is_occupied": true,
+    "vehicle": {
+      "license_plate": "MH123D3003",
+      "vehicle_type": "car",
+      "entry_time": "2025-07-29 15:00:46"
+    }
+  },
+  {
+    "slot_id": "B2",
+    "slot_type": "bike",
+    "is_occupied": true,
+    "vehicle": {
+      "license_plate": "MH075U2001",
+      "vehicle_type": "bike",
+      "entry_time": "2025-07-29 15:00:17"
+    }
+  },
+  {
+    "slot_id": "C3",
+    "slot_type": "car",
+    "is_occupied": true,
+    "vehicle": {
+      "license_plate": "MH041G4010",
+      "vehicle_type": "car",
+      "entry_time": "2025-07-29 15:01:29"
+    }
+  },
+  {
+    "slot_id": "B3",
+    "slot_type": "bike",
+    "is_occupied": true,
+    "vehicle": {
+      "license_plate": "GJ120B4000",
+      "vehicle_type": "bike",
+      "entry_time": "2025-07-29 15:01:07"
+    }
+  },
+  {
+    "slot_id": "C4",
+    "slot_type": "car",
+    "is_occupied": true,
+    "vehicle": {
+      "license_plate": "MH03EF5000",
+      "vehicle_type": "car",
+      "entry_time": "2025-07-29 15:02:35"
+    }
+  },
+  {
+    "slot_id": "B4",
+    "slot_type": "bike",
+    "is_occupied": true,
+    "vehicle": {
+      "license_plate": "DD012G1000",
+      "vehicle_type": "bike",
+      "entry_time": "2025-07-29 15:02:12"
+    }
+  }
+]
